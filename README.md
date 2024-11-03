@@ -15,8 +15,8 @@ Este projeto consiste em uma aplicação Android que implementa um clone do cart
 
 ## 🔖 Layout
 
-![Mobile 1](https://github.com/Micael-Resende/Clone-Card/blob/master/imagens/cartao-frente.jpg)
-![Mobile 1](https://github.com/Micael-Resende/Clone-Card/blob/master/imagens/cartao-verso.jpg)
+![Mobile 1](https://github.com/Micael-Resende/Card-Clone/blob/master/imagens/cartao-frente.jpg)
+![Mobile 1](https://github.com/Micael-Resende/Card-Clone/blob/master/imagens/cartao-verso.jpg)
 
 ---
 
