@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Credit-Card</string>
+    <string name="name">MICAEL R SILVA</string>
+    <string name="card_number">5432\u00A0\u00A07651\u00A0\u00A01011\u00A0\u00A01234</string>
+    <string name="member_since">10/24</string>
+    <string name="valid_date">12/25</string>
+    <string name="security_code">123</string>
+    <string name="member">MEMBER</string>
+    <string name="since">SINCE</string>
+    <string name="code">CODE</string>
+    <string name="security">SECURITY</string>
+    <string name="date">DATE</string>
+    <string name="valid">VALID</string>
+    <string name="issued_by_nubank_under_licence_mastercard_internacional">Issued by Nubank under licence MasterCard internacional.</string>
+</resources>
